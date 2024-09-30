@@ -4,7 +4,9 @@
 
 ## Descrição do Projeto
 
-Este projeto em Python tem como objetivo a criação de um **DataFrame** que registra a quantidade de visitas a um site por mês e por região no ano de 2023. Além disso, são gerados dois gráficos:
+Este projeto em Python tem como objetivo a criação de um **DataFrame** que registra a quantidade de visitas a um site por mês e por região no ano de 2023, por meio de dados aleatórios e fictícios. 
+
+Além disso, são gerados dois gráficos:
 
 1. Um gráfico de linhas que mostra a quantidade de visitas mensais ao site ao longo de 2023.
 2. Um gráfico de barras que expõe a distribuição das visitas por regiões do Brasil.
